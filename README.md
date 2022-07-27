@@ -1,1 +1,1 @@
-# ComforTable
+# ComforTable - App for tables
